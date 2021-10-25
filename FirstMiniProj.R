@@ -76,8 +76,9 @@ complete <- function(directory, id = 1:332) {
 #7   7  442
 #8   8  192
 #9   9  275
-
-
+#...
+#...
+#...
 
 #FUNCTION 3: Correlation function 
 
